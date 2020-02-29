@@ -1,4 +1,4 @@
-# pyLitecoinAddress
+# Litecoin Address Gen
 Litecoin Wallet Address Generator
 
 This is a simple Litecoin wallet address generator coded in Python 3.
